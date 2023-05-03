@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Stev-ven
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning web development ..
-- 💞️ I’m looking to collaborate on web development .
-- 📫 How to reach me +233559128632..
+- 👀 I’m interested in web development ||frontend
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 How to reach me +233559128632.
 
 <!---
 Stev-ven/Stev-ven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
