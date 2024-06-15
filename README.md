@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stev-ven
-- 👀 I’m interested in web development ||frontend
-- 💞️ I’m looking forward to collaborate on web development projects.
+- 👀 fullstack web developer
+- 💞️ want us to work on project together?
 - 📫 reach me via +233559128632
 
 <!---
